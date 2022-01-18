@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AyushGhosal
 - 👀 I’m interested in Software develope and Cloud computing
-- 🌱 I’m currently learning Btech in CSE from University of Engineering and Management Kolkata
+- 🌱 I’m currently persuing Btech in CSE from University of Engineering and Management Kolkata
 - 📫 contact me in : ayushghosal2002@gmail.com
 
 <!---
