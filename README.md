@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AyushGhosal
-- 👀 I’m interested in Software develope using JAVA
+- 👀 I’m interested in Software developement using JAVA , Databse Management System
 - 🌱 I’m currently persuing Btech in CSE from University of Engineering and Management Kolkata
 - 📫 contact me in : ayushghosal2002@gmail.com
 
